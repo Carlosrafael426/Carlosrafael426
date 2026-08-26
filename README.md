@@ -87,15 +87,6 @@ Hoje trabalho com **React 19 + TypeScript** no front — incluindo **sites no ar
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carlosrafael426&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosrafael426&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ## 🤝 Vamos conversar?
 
 Estou em busca da minha primeira oportunidade na área e aberto a feedback sobre os projetos. Se você chegou até aqui, me chama:
