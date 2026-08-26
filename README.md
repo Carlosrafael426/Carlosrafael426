@@ -6,11 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://carlosrafaeldev.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-carlosrafaeldev.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/carlos-rafael-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:carlosrafael360@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://carlosrafaeldev.com"><img src="https://img.shields.io/badge/carlosrafaeldev.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/carlos-rafael-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:carlosrafael360@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
 ---
